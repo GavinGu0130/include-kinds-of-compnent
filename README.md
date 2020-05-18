@@ -1,0 +1,1 @@
+# include-kinds-of-compnent
