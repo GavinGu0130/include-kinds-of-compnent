@@ -1,4 +1,4 @@
-package com.gavin.includekindsofcompnent.design.iterator_pattern;
+package com.gavin.includekindsofcompnent.design.iterator_pattern.base;
 
 public class IteratorEntry {
     public static void main(String[] args) {

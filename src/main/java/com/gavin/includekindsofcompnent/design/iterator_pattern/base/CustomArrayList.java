@@ -1,4 +1,4 @@
-package com.gavin.includekindsofcompnent.design.iterator_pattern;
+package com.gavin.includekindsofcompnent.design.iterator_pattern.base;
 
 public class CustomArrayList<T> implements ICustomCollection {
     Object[] objs = new Object[10];

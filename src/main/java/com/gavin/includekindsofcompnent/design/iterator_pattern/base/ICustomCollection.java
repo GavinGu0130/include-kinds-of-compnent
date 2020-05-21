@@ -1,4 +1,4 @@
-package com.gavin.includekindsofcompnent.design.iterator_pattern;
+package com.gavin.includekindsofcompnent.design.iterator_pattern.base;
 
 public interface ICustomCollection {
     void add(Object e);
